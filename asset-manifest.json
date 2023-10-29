@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elche_jotajota/static/css/main.6c9b8847.css",
+    "main.js": "/elche_jotajota/static/js/main.44d91cab.js",
+    "static/js/787.045524ef.chunk.js": "/elche_jotajota/static/js/787.045524ef.chunk.js",
+    "static/media/Instagram.png": "/elche_jotajota/static/media/Instagram.a2bc64945a678bb305c9.png",
+    "static/media/Fondo_pagina.jpg": "/elche_jotajota/static/media/Fondo_pagina.17cd2594e82449fb53fd.jpg",
+    "static/media/SobreNosotros.JPG": "/elche_jotajota/static/media/SobreNosotros.15f9cf06f36db17a8d26.JPG",
+    "static/media/Cliente_Satisfecho.JPG": "/elche_jotajota/static/media/Cliente_Satisfecho.1d6920217131a2cf5b33.JPG",
+    "static/media/Campana_mes.JPG": "/elche_jotajota/static/media/Campana_mes.e4417da2553a92a9d8e0.JPG",
+    "static/media/Zonas_Reparto.JPG": "/elche_jotajota/static/media/Zonas_Reparto.268e2b6db6d924d79592.JPG",
+    "static/media/Logo_FunnyBox.JPG": "/elche_jotajota/static/media/Logo_FunnyBox.2c46b39dd651b8dcf87d.JPG",
+    "index.html": "/elche_jotajota/index.html",
+    "main.6c9b8847.css.map": "/elche_jotajota/static/css/main.6c9b8847.css.map",
+    "main.44d91cab.js.map": "/elche_jotajota/static/js/main.44d91cab.js.map",
+    "787.045524ef.chunk.js.map": "/elche_jotajota/static/js/787.045524ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9b8847.css",
+    "static/js/main.44d91cab.js"
+  ]
+}
