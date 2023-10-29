@@ -8,7 +8,7 @@ const Zonasdereparto = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-8 offset-2 col-md-12 offset-md-0 pt-5">
-                            <h3 className="text-center">Zonas de Reparto</h3>
+                            <h1 className="text-center">Zonas de Reparto</h1>
                             <img src={ImgZonasdereparto} className="img-fluid img-thumbnail rounded mx-auto d-block"/>
                             <p>Zonas disponibles de Lima</p>
                         </div>
